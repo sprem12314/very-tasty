@@ -143,7 +143,7 @@
         <version.slf4j>1.7.16</version.slf4j>
         <version.jre>11.0.2</version.jre>
         <version.jansi>1.18</version.jansi>
-        <version.gson>2.8.6</version.gson>
+        <version.gson>2.8.9</version.gson>
     </properties>
 
     <dependencyManagement>
